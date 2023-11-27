@@ -3,8 +3,7 @@ Application for multi signature verification.
 
 Navigate to folder "hardhat":
 - Start a local development node: yarn chain    
-- In a new terminal window, deploy your contracts: yarn deploy
-- To run test scripts: npx hardhat compile
+- In different terminal can run: npx hardhat (compile/clean/test/deploy)
    
 Navigate to folder "nextjs":
 - In a new terminal window, start the frontend: yarn start
